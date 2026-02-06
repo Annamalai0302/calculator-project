@@ -1,0 +1,28 @@
+.calculator{
+    width: 190px;
+    background-color: purple;
+    border-radius: 5px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-items: center;
+}
+h1{
+    color: blanchedalmond;
+}
+#display{
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 0;
+    margin-bottom: 10px;
+    background-color: blueviolet;
+    color: whitesmoke;
+}
